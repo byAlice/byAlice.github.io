@@ -56,7 +56,6 @@
 <p>不到成功的那一刻，一切欣喜若狂都是不值得的！如果你已经迫不及待，我们继续：</p>
 <h3 id="部署博客到服务器"><a href="#部署博客到服务器" class="headerlink" title="部署博客到服务器"></a>部署博客到服务器</h3><p>也就是把博客部署到github page提供的服务器上。</p>
 <h4 id="步骤"><a href="#步骤" class="headerlink" title="步骤"></a>步骤</h4><p>首先回到git shell按ctrl+c，之后输入y即可，如下图所示：</p>
-<p><img src="images/1.png" alt=""></p>
 ]]></content>
     </entry>
     
