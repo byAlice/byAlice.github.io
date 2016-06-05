@@ -26,8 +26,7 @@ categories:
 
 2.  安装[**node.js**](https://nodejs.org/en/)
 
-3. 安装git，或安装github客户端，自我感觉github客户端很好用，界面很友好，同样操作起来也比git好用的多！我用的是window10系统，在官网下载数次都未安装成功，最后在知乎上终于找到安装包，
-链接: [http://pan.baidu.com/s/1eS2mHxS](http://pan.baidu.com/s/1eS2mHxS) 密码: yatq ，有需要的同学可以点击下载。
+3. 安装git，或安装github客户端，自我感觉github客户端很好用，界面很友好，同样操作起来也比git好用的多！我用的是window10系统，在官网下载数次都未安装成功，最后在知乎上终于找到安装包，链接: [http://pan.baidu.com/s/1eS2mHxS](http://pan.baidu.com/s/1eS2mHxS) 密码: yatq ，有需要的同学可以点击下载。
 
 ## 安装步骤
 
@@ -71,11 +70,10 @@ cd和/之间要有空格，这条指令的作用是返回根目录，也可以�
 
 那么如何翻墙呢？ 下面提供我所知道的两种方法：  
 
-*  这种方法比较简单，下载安装运行Lantern，可以官网下载的吧！这里提供一下安装包吧
-    链接: [http://pan.baidu.com/s/1c2x7eRu](http://pan.baidu.com/s/1c2x7eRu)
+*  这种方法比较简单，下载安装运行Lantern，可以官网下载的吧！这里提供一下安装包吧，链接: [http://pan.baidu.com/s/1c2x7eRu](http://pan.baidu.com/s/1c2x7eRu)
     密码: z3kw
 
-*  这种方法需要修改hosts文件，我的hosts文件路径：C:\Windows\System32\drivers\etc，详细攻略：[http://blog.my-eclipse.cn/host-google.html](http://blog.my-eclipse.cn/host-google.html)
+*  这种方法需要修改hosts文件，我的 hosts 文件路径：C:\Windows\System32\drivers\etc ，详细攻略：[http://blog.my-eclipse.cn/host-google.html](http://blog.my-eclipse.cn/host-google.html)
 
 *  如果你不想翻墙，可以采用这种方法：[http://blog.netpi.me/%E5%AE%9E%E7%94%A8/hexo/](http://blog.netpi.me/%E5%AE%9E%E7%94%A8/hexo/)
 
@@ -191,6 +189,15 @@ cd和/之间要有空格，这条指令的作用是返回根目录，也可以�
     3.  hexo s
     4.  hexo d
 
+
+
+#### 更高大上的发表博文的方法
+
+
+使用Travis CI自动部署你的Hexo博客到Github,请参考[手把手教你使用Travis CI自动部署你的Hexo博客到Github上](http://i.woblog.cn/2016/05/04/%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E4%BD%BF%E7%94%A8Travis%20CI%E8%87%AA%E5%8A%A8%E9%83%A8%E7%BD%B2%E4%BD%A0%E7%9A%84Hexo%E5%8D%9A%E5%AE%A2%E5%88%B0Github%E4%B8%8A/#more)
+
+
+
 ## 安装主题
 
 如果你跟我一样觉得原始的博客主题很low，想更换一个高逼格的，那我们继续往下进行：
@@ -248,9 +255,9 @@ type: "tags"这里的值根据你想更改的页面决定
 
 * 安装swiftype插件，可以参考[利用swiftype为hexo添加站内搜索](http://www.jerryfu.net/post/search-engine-for-hexo-with-swiftype-v2.html)
 
-### 感谢
 
-第一次发文，博客中借鉴和总结了一些前辈的文章，对你们表示诚挚的感谢
+## 感谢
+
 
 * [如何利用GitHub Pages和Hexo快速搭建个人博客](http://sunwhut.com/2015/10/30/buildBlog/)
 
@@ -261,3 +268,12 @@ type: "tags"这里的值根据你想更改的页面决定
 * [博客搬迁记 - 从WordPress到Hexo](http://www.imys.net/20150513/wordpress-to-hexo.html#无法开启RSS和sitemap)
 
 * [在 hexo中无痛使用本地图片](http://www.tuicool.com/articles/umEBVfI)
+
+* [手把手教你使用Travis CI自动部署你的Hexo博客到Github上](http://i.woblog.cn/2016/05/04/%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E4%BD%BF%E7%94%A8Travis%20CI%E8%87%AA%E5%8A%A8%E9%83%A8%E7%BD%B2%E4%BD%A0%E7%9A%84Hexo%E5%8D%9A%E5%AE%A2%E5%88%B0Github%E4%B8%8A/#more)
+
+第一次发文，博客中借鉴和总结了一些前辈的文章，对你们表示诚挚的感谢！
+
+## 后记
+
+
+准确说应该是这三天以来一直在忙着搞这个博客，昨天夜里甚至搞到三点，作为一个小白一步步建立博客，时不时遇到新问题，通过搜索，以及前辈们建立博客的经验一步步解决问题，每当解决一个问题，都会有巨大的成就感和满足感，写这篇文章也算是对自己的一个交代，我从别人的博客中学到了很多，希望这篇博文也可以帮助到你！
