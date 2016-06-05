@@ -5,15 +5,31 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://byalice.github.io/"/>
-  <updated>2016-06-05T10:52:59.931Z</updated>
+  <updated>2016-06-05T11:50:30.105Z</updated>
   <id>https://byalice.github.io/</id>
   
   <author>
     <name>byAlice</name>
-    
+    <email>byalice@foxmail.com</email>
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>测试一下</title>
+    <link href="https://byalice.github.io/2016/06/05/%E6%B5%8B%E8%AF%95%E4%B8%80%E4%B8%8B/"/>
+    <id>https://byalice.github.io/2016/06/05/测试一下/</id>
+    <published>2016-06-05T11:50:29.000Z</published>
+    <updated>2016-06-05T11:50:30.105Z</updated>
+    
+    <content type="html"></content>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>使用github page、Hexo、多说快速构建个人博客</title>
