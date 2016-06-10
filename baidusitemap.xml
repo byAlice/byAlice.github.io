@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    
+  <url>
+    <loc>http://byalice.github.io/2016/06/04/Build-Blog/</loc>
+    <lastmod>2016-06-08T06:52:29.347Z</lastmod>
+    <data>
+        <display>
+        <title>使用Github Page和Hexo快速构建个人博客，以及插件安装及主题优化总结</title>
+        <pubTime>2016-06-04T05:15:00.000Z</pubTime>
+        
+        <tag>Github page </tag>
+         
+        <tag>Hexo </tag>
+         
+        <tag>Next主题 </tag>
+         
+        <tag>插件安装 </tag>
+         
+        <tag>性能优化 </tag>
+         
+         
+           
+             
+              <breadCrumb title="Hexo" url="http://byalice.github.io/categories/Hexo/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+    
+    
+    
+    
+    
+    
+  <url>
+    <loc>http://byalice.github.io/2016/06/02/hello-world/</loc>
+    <lastmod>2016-06-02T12:48:20.875Z</lastmod>
+    <data>
+        <display>
+        <title>Hello World</title>
+        <pubTime>2016-06-02T12:48:20.874Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+</urlset>
