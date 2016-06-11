@@ -24,7 +24,7 @@
 </ul>
 <p><img src="/2016/06/11/git-plus/2.png" alt=""></p>
 <p>&#x4E00;&#x5F00;&#x59CB;push&#x5931;&#x8D25;&#x5C31;&#x662F;&#x56E0;&#x4E3A;&#x6CA1;&#x6709;&#x6B63;&#x786E;&#x914D;&#x7F6E;git path&#xFF0C;&#x628A;&#x4E0A;&#x4E00;&#x6B65;&#x627E;&#x5230;&#x7684;git.exe&#x7684;&#x8DEF;&#x5F84;&#x586B;&#x8FDB;&#x53BB;&#xFF0C;&#x6211;&#x7684;git.exe&#x8DEF;&#x5F84;&#xFF1A;</p>
-<p>C:\Users\lenovo\AppData\Local\GGitHub<br>\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd\git.exe<br>&#x3010;&#x6CE8;&#x610F;&#x4F60;&#x8F93;&#x5165;&#x65F6;&#x7684;\&#x5E94;&#x8BE5;&#x4E3A;/&#x3011;</p>
+<p>C:\Users\lenovo\AppData\Local\GGitHub<br>\PortableGit_\cmd\git.exe<br>&#x3010;&#x6CE8;&#x610F;&#x4F60;&#x8F93;&#x5165;&#x65F6;&#x7684;\&#x5E94;&#x8BE5;&#x4E3A;/&#x3011;</p>
 <ul>
 <li><p>&#x4F7F;&#x7528;git shell&#x901A;&#x8FC7;ssh&#x7684;&#x65B9;&#x5F0F;&#x6765;clone&#x9879;&#x76EE;&#xFF0C;&#x7136;&#x540E;&#x5728;&#x7528;Atom&#x6253;&#x5F00;&#x521A;&#x521A;clone&#x4E0B;&#x6765;&#x7684;&#x9879;&#x76EE;</p>
 </li>

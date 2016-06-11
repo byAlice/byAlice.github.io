@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.byalice.club/"/>
-  <updated>2016-06-11T09:55:21.577Z</updated>
+  <updated>2016-06-11T12:54:00.078Z</updated>
   <id>http://www.byalice.club/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://www.byalice.club/2016/06/11/git-plus/"/>
     <id>http://www.byalice.club/2016/06/11/git-plus/</id>
     <published>2016-06-11T08:11:43.000Z</published>
-    <updated>2016-06-11T09:55:21.577Z</updated>
+    <updated>2016-06-11T12:54:00.078Z</updated>
     
     <content type="html">&lt;h2 id=&quot;Atom&amp;#x7B80;&amp;#x4ECB;&quot;&gt;&lt;a href=&quot;#Atom&amp;#x7B80;&amp;#x4ECB;&quot; class=&quot;headerlink&quot; title=&quot;Atom&amp;#x7B80;&amp;#x4ECB;&quot;&gt;&lt;/a&gt;Atom&amp;#x7B80;&amp;#x4ECB;&lt;/h2&gt;&lt;blockquote&gt;
 &lt;p&gt;Atom is a text editor that&amp;#x2019;s modern, approachable, yet hackable to the core&amp;#x2014;a tool you can customize to do anything but also use productively without ever touching a config file.&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;/p&gt;
@@ -40,7 +40,7 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;img src=&quot;/2016/06/11/git-plus/2.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&amp;#x4E00;&amp;#x5F00;&amp;#x59CB;push&amp;#x5931;&amp;#x8D25;&amp;#x5C31;&amp;#x662F;&amp;#x56E0;&amp;#x4E3A;&amp;#x6CA1;&amp;#x6709;&amp;#x6B63;&amp;#x786E;&amp;#x914D;&amp;#x7F6E;git path&amp;#xFF0C;&amp;#x628A;&amp;#x4E0A;&amp;#x4E00;&amp;#x6B65;&amp;#x627E;&amp;#x5230;&amp;#x7684;git.exe&amp;#x7684;&amp;#x8DEF;&amp;#x5F84;&amp;#x586B;&amp;#x8FDB;&amp;#x53BB;&amp;#xFF0C;&amp;#x6211;&amp;#x7684;git.exe&amp;#x8DEF;&amp;#x5F84;&amp;#xFF1A;&lt;/p&gt;
-&lt;p&gt;C:\Users\lenovo\AppData\Local\GGitHub&lt;br&gt;\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd\git.exe&lt;br&gt;&amp;#x3010;&amp;#x6CE8;&amp;#x610F;&amp;#x4F60;&amp;#x8F93;&amp;#x5165;&amp;#x65F6;&amp;#x7684;\&amp;#x5E94;&amp;#x8BE5;&amp;#x4E3A;/&amp;#x3011;&lt;/p&gt;
+&lt;p&gt;C:\Users\lenovo\AppData\Local\GGitHub&lt;br&gt;\PortableGit_\cmd\git.exe&lt;br&gt;&amp;#x3010;&amp;#x6CE8;&amp;#x610F;&amp;#x4F60;&amp;#x8F93;&amp;#x5165;&amp;#x65F6;&amp;#x7684;\&amp;#x5E94;&amp;#x8BE5;&amp;#x4E3A;/&amp;#x3011;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;&amp;#x4F7F;&amp;#x7528;git shell&amp;#x901A;&amp;#x8FC7;ssh&amp;#x7684;&amp;#x65B9;&amp;#x5F0F;&amp;#x6765;clone&amp;#x9879;&amp;#x76EE;&amp;#xFF0C;&amp;#x7136;&amp;#x540E;&amp;#x5728;&amp;#x7528;Atom&amp;#x6253;&amp;#x5F00;&amp;#x521A;&amp;#x521A;clone&amp;#x4E0B;&amp;#x6765;&amp;#x7684;&amp;#x9879;&amp;#x76EE;&lt;/p&gt;
 &lt;/li&gt;
