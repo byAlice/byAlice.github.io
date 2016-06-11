@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.byalice.club/"/>
-  <updated>2016-06-08T06:52:29.347Z</updated>
+  <updated>2016-06-11T09:21:54.009Z</updated>
   <id>http://www.byalice.club/</id>
   
   <author>
@@ -14,6 +14,66 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Atom 插件git plus如何配置</title>
+    <link href="http://www.byalice.club/2016/06/11/git-plus/"/>
+    <id>http://www.byalice.club/2016/06/11/git-plus/</id>
+    <published>2016-06-11T08:11:43.000Z</published>
+    <updated>2016-06-11T09:21:54.009Z</updated>
+    
+    <content type="html">&lt;h2 id=&quot;Atom&amp;#x7B80;&amp;#x4ECB;&quot;&gt;&lt;a href=&quot;#Atom&amp;#x7B80;&amp;#x4ECB;&quot; class=&quot;headerlink&quot; title=&quot;Atom&amp;#x7B80;&amp;#x4ECB;&quot;&gt;&lt;/a&gt;Atom&amp;#x7B80;&amp;#x4ECB;&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;Atom is a text editor that&amp;#x2019;s modern, approachable, yet hackable to the core&amp;#x2014;a tool you can customize to do anything but also use productively without ever touching a config file.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&amp;#x6700;&amp;#x8FD1;&amp;#x51E0;&amp;#x5929;&amp;#x5728;&amp;#x5C1D;&amp;#x8BD5;&amp;#x4F7F;&amp;#x7528;Atom,Atom&amp;#x662F;Github&amp;#x4E13;&amp;#x95E8;&amp;#x4E3A;&amp;#x7A0B;&amp;#x5E8F;&amp;#x5458;&amp;#x63A8;&amp;#x51FA;&amp;#x7684;&amp;#x4E00;&amp;#x4E2A;&amp;#x8DE8;&amp;#x5E73;&amp;#x53F0;&amp;#x6587;&amp;#x672C;&amp;#x7F16;&amp;#x8F91;&amp;#x5668;&amp;#x3002;&amp;#x5177;&amp;#x6709;&amp;#x7B80;&amp;#x6D01;&amp;#x548C;&amp;#x76F4;&amp;#x89C2;&amp;#x7684;&amp;#x56FE;&amp;#x5F62;&amp;#x7528;&amp;#x6237;&amp;#x754C;&amp;#x9762;&amp;#xFF0C;&amp;#x5E76;&amp;#x6709;&amp;#x5F88;&amp;#x591A;&amp;#x6709;&amp;#x8DA3;&amp;#x7684;&amp;#x7279;&amp;#x70B9;&amp;#xFF1A;&amp;#x652F;&amp;#x6301;CSS&amp;#xFF0C;HTML&amp;#xFF0C;JavaScript&amp;#x7B49;&amp;#x7F51;&amp;#x9875;&amp;#x7F16;&amp;#x7A0B;&amp;#x8BED;&amp;#x8A00;&amp;#x3002;&amp;#x5B83;&amp;#x652F;&amp;#x6301;&amp;#x5B8F;&amp;#xFF0C;&amp;#x81EA;&amp;#x52A8;&amp;#x5B8C;&amp;#x6210;&amp;#x5206;&amp;#x5C4F;&amp;#x529F;&amp;#x80FD;&amp;#xFF0C;&amp;#x96C6;&amp;#x6210;&amp;#x4E86;&amp;#x6587;&amp;#x4EF6;&amp;#x7BA1;&amp;#x7406;&amp;#x5668;&amp;#x3002;&amp;#x5F00;&amp;#x53D1;&amp;#x56E2;&amp;#x961F;&amp;#x5C06;Atom&amp;#x6210;&amp;#x4E3A;&amp;#x201C;21&amp;#x4E16;&amp;#x7EAA;&amp;#x521B;&amp;#x9020;&amp;#x7684;&amp;#x53EF;&amp;#x914D;&amp;#x7F6E;&amp;#x7684;&amp;#x7F16;&amp;#x8F91;&amp;#x5668;&amp;#x201D;&amp;#xFF0C;&amp;#x5B83;&amp;#x62E5;&amp;#x6709;&amp;#x975E;&amp;#x5E38;&amp;#x7EC6;&amp;#x817B;&amp;#x7684;&amp;#x754C;&amp;#x9762;&amp;#xFF0C;&amp;#x5E76;&amp;#x4E14;&amp;#x914D;&amp;#x7F6E;&amp;#x9879;&amp;#x4E30;&amp;#x5BCC;&amp;#xFF0C;&amp;#x800C;&amp;#x4E14;&amp;#x53EF;&amp;#x6269;&amp;#x5C55;&amp;#x5404;&amp;#x79CD;&amp;#x5B9E;&amp;#x7528;&amp;#x7684;&lt;a href=&quot;http://wiki.jikexueyuan.com/project/atom/plug-in.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&amp;#x63D2;&amp;#x4EF6;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;git-plus&amp;#x914D;&amp;#x7F6E;&quot;&gt;&lt;a href=&quot;#git-plus&amp;#x914D;&amp;#x7F6E;&quot; class=&quot;headerlink&quot; title=&quot;git-plus&amp;#x914D;&amp;#x7F6E;&quot;&gt;&lt;/a&gt;git-plus&amp;#x914D;&amp;#x7F6E;&lt;/h2&gt;&lt;h3 id=&quot;&amp;#x5B98;&amp;#x65B9;&amp;#x8BF4;&amp;#x660E;&quot;&gt;&lt;a href=&quot;#&amp;#x5B98;&amp;#x65B9;&amp;#x8BF4;&amp;#x660E;&quot; class=&quot;headerlink&quot; title=&quot;&amp;#x5B98;&amp;#x65B9;&amp;#x8BF4;&amp;#x660E;&quot;&gt;&lt;/a&gt;&amp;#x5B98;&amp;#x65B9;&amp;#x8BF4;&amp;#x660E;&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;vim-fugitive like package for atom. make commits and other git things without the terminal. Make sure your gitconfig file is configured. You must configure at least the user.email and user.name variables.Also, the package currently favors an ssh setup that doesn&amp;#x2019;t expect to be prompted for credentials in order to push/pull, .etc.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;git plus&amp;#x5B98;&amp;#x65B9;&amp;#x6587;&amp;#x6863;&amp;#x5982;&amp;#x662F;&amp;#x8BF4;&amp;#xFF0C;&amp;#x5927;&amp;#x6982;&amp;#x610F;&amp;#x601D;&amp;#x5C31;&amp;#x662F;&amp;#x8BF4;&amp;#x4F60;&amp;#x5728;Atom&amp;#x4E0A;&amp;#x4F7F;&amp;#x7528;git plus&amp;#x63D2;&amp;#x4EF6;&amp;#x53EF;&amp;#x4EE5;&amp;#x8131;&amp;#x79BB;&amp;#x5176;&amp;#x4ED6;git&amp;#x7EC8;&amp;#x7AEF;&amp;#x5373;&amp;#x53EF;&amp;#x5B8C;&amp;#x6210;&amp;#x5404;&amp;#x79CD;git&amp;#x6307;&amp;#x4EE4;&amp;#x5B9E;&amp;#x73B0;&amp;#x7248;&amp;#x672C;&amp;#x63A7;&amp;#x5236;&amp;#xFF0C;&amp;#x4F46;&amp;#x524D;&amp;#x63D0;&amp;#x662F;&amp;#x4F60;&amp;#x5F97;&amp;#x5148;&amp;#x914D;&amp;#x7F6E;&amp;#x597D;&amp;#x4F60;&amp;#x7684;&amp;#x7528;&amp;#x6237;&amp;#x540D;&amp;#x548C;&amp;#x90AE;&amp;#x7BB1;&amp;#xFF0C;&amp;#x5E76;&amp;#x4E14;&amp;#x914D;&amp;#x7F6E;&amp;#x597D;&lt;a href=&quot;https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;ssh&lt;/a&gt;&amp;#xFF0C;&amp;#x770B;&amp;#x6765;git plus&amp;#x53EA;&amp;#x80FD;&amp;#x652F;&amp;#x6301;&amp;#x901A;&amp;#x8FC7;ssh key&amp;#x8FD9;&amp;#x79CD;&amp;#x65B9;&amp;#x5F0F;&amp;#x6765;&amp;#x4F7F;&amp;#x7528;git&amp;#x547D;&amp;#x4EE4;&lt;/p&gt;
+&lt;h3 id=&quot;&amp;#x914D;&amp;#x7F6E;&quot;&gt;&lt;a href=&quot;#&amp;#x914D;&amp;#x7F6E;&quot; class=&quot;headerlink&quot; title=&quot;&amp;#x914D;&amp;#x7F6E;&quot;&gt;&lt;/a&gt;&amp;#x914D;&amp;#x7F6E;&lt;/h3&gt;&lt;p&gt;&amp;#x5C1D;&amp;#x8BD5;&amp;#x51E0;&amp;#x6B21;&amp;#x540E;&amp;#x90FD;&amp;#x5728;push&amp;#x8FD9;&amp;#x6B65;&amp;#x5931;&amp;#x8D25;&amp;#xFF0C;&amp;#x5BFB;&amp;#x627E;&amp;#x539F;&amp;#x56E0;&amp;#x540E;&amp;#x7EC8;&amp;#x4E8E;&amp;#x77E5;&amp;#x9053;&amp;#x914D;&amp;#x7F6E;&amp;#x9519;&amp;#x8BEF;&amp;#xFF0C;&amp;#x90A3;&amp;#x4E48;&amp;#x5982;&amp;#x4F55;&amp;#x914D;&amp;#x7F6E;&amp;#x5462;&amp;#xFF0C;&lt;/p&gt;
+&lt;h4 id=&quot;&amp;#x5982;&amp;#x679C;&amp;#x5B89;&amp;#x88C5;&amp;#x4E86;github&amp;#x5BA2;&amp;#x6237;&amp;#x7AEF;&quot;&gt;&lt;a href=&quot;#&amp;#x5982;&amp;#x679C;&amp;#x5B89;&amp;#x88C5;&amp;#x4E86;github&amp;#x5BA2;&amp;#x6237;&amp;#x7AEF;&quot; class=&quot;headerlink&quot; title=&quot;&amp;#x5982;&amp;#x679C;&amp;#x5B89;&amp;#x88C5;&amp;#x4E86;github&amp;#x5BA2;&amp;#x6237;&amp;#x7AEF;&quot;&gt;&lt;/a&gt;&amp;#x5982;&amp;#x679C;&amp;#x5B89;&amp;#x88C5;&amp;#x4E86;github&amp;#x5BA2;&amp;#x6237;&amp;#x7AEF;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&amp;#x9996;&amp;#x5148;&amp;#x627E;&amp;#x5230;git.exe&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&quot;/2016/06/11/git-plus/1.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;#x6253;&amp;#x5F00;Atom&amp;#x7684;settings,&amp;#x6253;&amp;#x5F00;packages&amp;#xFF0C;&amp;#x70B9;&amp;#x51FB;git plus&amp;#x5DE6;&amp;#x4E0B;&amp;#x65B9;&amp;#x7684;settings&amp;#xFF0C;&amp;#x627E;&amp;#x5230;git path&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&quot;/2016/06/11/git-plus/2.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#x4E00;&amp;#x5F00;&amp;#x59CB;push&amp;#x5931;&amp;#x8D25;&amp;#x5C31;&amp;#x662F;&amp;#x56E0;&amp;#x4E3A;&amp;#x6CA1;&amp;#x6709;&amp;#x6B63;&amp;#x786E;&amp;#x914D;&amp;#x7F6E;git path&amp;#xFF0C;&amp;#x628A;&amp;#x4E0A;&amp;#x4E00;&amp;#x6B65;&amp;#x627E;&amp;#x5230;&amp;#x7684;git.exe&amp;#x7684;&amp;#x8DEF;&amp;#x5F84;&amp;#x586B;&amp;#x8FDB;&amp;#x53BB;&amp;#xFF0C;&amp;#x6211;&amp;#x7684;git.exe&amp;#x8DEF;&amp;#x5F84;&amp;#x662F;C:\Users\lenovo\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd\git.exe&amp;#x3010;&amp;#x6CE8;&amp;#x610F;&amp;#x4F60;&amp;#x8F93;&amp;#x5165;&amp;#x65F6;&amp;#x7684;\&amp;#x5E94;&amp;#x8BE5;&amp;#x4E3A;/&amp;#x3011;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&amp;#x4F7F;&amp;#x7528;git shell&amp;#x901A;&amp;#x8FC7;ssh&amp;#x7684;&amp;#x65B9;&amp;#x5F0F;&amp;#x6765;clone&amp;#x9879;&amp;#x76EE;&amp;#xFF0C;&amp;#x7136;&amp;#x540E;&amp;#x5728;&amp;#x7528;Atom&amp;#x6253;&amp;#x5F00;&amp;#x521A;&amp;#x521A;clone&amp;#x4E0B;&amp;#x6765;&amp;#x7684;&amp;#x9879;&amp;#x76EE;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&amp;#x4F7F;&amp;#x7528;Atom&amp;#x7684;&amp;#x63D2;&amp;#x4EF6;git plus&amp;#x5373;&amp;#x53EF;&amp;#x6210;&amp;#x529F;&amp;#x4F7F;&amp;#x7528;git&amp;#x5404;&amp;#x9879;&amp;#x547D;&amp;#x4EE4;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&quot;/2016/06/11/git-plus/3.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#x53EF;&amp;#x4EE5;&amp;#x770B;&amp;#x5230;&amp;#x53EF;&amp;#x4EE5;&amp;#x6210;&amp;#x529F;push&amp;#xFF0C;&amp;#x53EF;&amp;#x4EE5;&amp;#x6B63;&amp;#x5E38;&amp;#x4F7F;&amp;#x7528;&amp;#x4E86;&amp;#xFF0C;&amp;#x53EF;&amp;#x4EE5;&amp;#x5FEB;&amp;#x4E50;&amp;#x7684;&amp;#x4F7F;&amp;#x7528;git plus&amp;#x8FDB;&amp;#x884C;&amp;#x7248;&amp;#x672C;&amp;#x63A7;&amp;#x5236;&amp;#x4E86;&amp;#xFF01;&lt;/p&gt;
+&lt;h4 id=&quot;&amp;#x5982;&amp;#x679C;&amp;#x6CA1;&amp;#x6709;github&amp;#x5BA2;&amp;#x6237;&amp;#x7AEF;&quot;&gt;&lt;a href=&quot;#&amp;#x5982;&amp;#x679C;&amp;#x6CA1;&amp;#x6709;github&amp;#x5BA2;&amp;#x6237;&amp;#x7AEF;&quot; class=&quot;headerlink&quot; title=&quot;&amp;#x5982;&amp;#x679C;&amp;#x6CA1;&amp;#x6709;github&amp;#x5BA2;&amp;#x6237;&amp;#x7AEF;&quot;&gt;&lt;/a&gt;&amp;#x5982;&amp;#x679C;&amp;#x6CA1;&amp;#x6709;github&amp;#x5BA2;&amp;#x6237;&amp;#x7AEF;&lt;/h4&gt;&lt;p&gt;&amp;#x5982;&amp;#x679C;&amp;#x4F60;&amp;#x6CA1;&amp;#x6709;github&amp;#x5BA2;&amp;#x670D;&amp;#x7AEF;&amp;#x8BF7;&amp;#x53C2;&amp;#x8003;&amp;#x8FD9;&amp;#x4F4D;&amp;#x5927;&amp;#x54E5;&amp;#x5199;&amp;#x7684;&amp;#x6559;&amp;#x7A0B;&amp;#xFF1A;&lt;a href=&quot;http://deadlion.cn/2016/03/14/Atom-package-git-plus-%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Atom package git-plus &amp;#x4F7F;&amp;#x7528;&amp;#x8BF4;&amp;#x660E;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;&amp;#x53C2;&amp;#x8003;&amp;#x6587;&amp;#x732E;&quot;&gt;&lt;a href=&quot;#&amp;#x53C2;&amp;#x8003;&amp;#x6587;&amp;#x732E;&quot; class=&quot;headerlink&quot; title=&quot;&amp;#x53C2;&amp;#x8003;&amp;#x6587;&amp;#x732E;&quot;&gt;&lt;/a&gt;&amp;#x53C2;&amp;#x8003;&amp;#x6587;&amp;#x732E;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://atom.io/packages/git-plus&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;git plus&amp;#x5B98;&amp;#x65B9;&amp;#x6587;&amp;#x6863;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://deadlion.cn/2016/03/14/Atom-package-git-plus-%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Atom package git-plus &amp;#x4F7F;&amp;#x7528;&amp;#x8BF4;&amp;#x660E;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;&amp;#x540E;&amp;#x8BB0;&quot;&gt;&lt;a href=&quot;#&amp;#x540E;&amp;#x8BB0;&quot; class=&quot;headerlink&quot; title=&quot;&amp;#x540E;&amp;#x8BB0;&quot;&gt;&lt;/a&gt;&amp;#x540E;&amp;#x8BB0;&lt;/h2&gt;&lt;p&gt;&amp;#x5728;&amp;#x8FD9;&amp;#x91CC;&amp;#x8BDA;&amp;#x631A;&amp;#x7684;&amp;#x611F;&amp;#x8C22;git plus&amp;#x7684;&amp;#x9879;&amp;#x76EE;&amp;#x521B;&amp;#x5EFA;&amp;#x8005;&amp;#xFF0C;&amp;#x8FD9;&amp;#x4F4D;&amp;#x5F02;&amp;#x56FD;&amp;#x7684;&amp;#x5927;&amp;#x54E5;&amp;#x4E3A;&amp;#x6211;&amp;#x4EEC;&amp;#x63D0;&amp;#x4F9B;&amp;#x4E86;&amp;#x65B9;&amp;#x4FBF;&amp;#xFF0C;&amp;#x611F;&amp;#x8C22;&amp;#x4E0A;&amp;#x8FF0;&amp;#x7684;&amp;#x535A;&amp;#x53CB;&amp;#x505A;&amp;#x51FA;&amp;#x7684;&amp;#x63A2;&amp;#x7D22;&amp;#x4E0E;&amp;#x603B;&amp;#x7ED3;&amp;#xFF0C;&amp;#x5E0C;&amp;#x671B;&amp;#x8FD9;&amp;#x7BC7;&amp;#x535A;&amp;#x6587;&amp;#x5BF9;&amp;#x4F60;&amp;#x6709;&amp;#x6240;&amp;#x5E2E;&amp;#x52A9;&amp;#xFF0C;&amp;#x5982;&amp;#x6709;&amp;#x95EE;&amp;#x9898;&amp;#x53EF;&amp;#x8BC4;&amp;#x8BBA;&amp;#x6307;&amp;#x51FA;&amp;#xFF0C;&amp;#x5982;&amp;#x6709;&amp;#x9519;&amp;#x8BEF;&amp;#x4E4B;&amp;#x5904;&amp;#x8FD8;&amp;#x671B;&amp;#x5927;&amp;#x795E;&amp;#x6279;&amp;#x8BC4;&amp;#x6307;&amp;#x6B63;&amp;#xFF01;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;Atom&amp;#x7B80;&amp;#x4ECB;&quot;&gt;&lt;a href=&quot;#Atom&amp;#x7B80;&amp;#x4ECB;&quot; class=&quot;headerlink&quot; title=&quot;Atom&amp;#x7B80;&amp;#x4ECB;&quot;&gt;&lt;/a&gt;Atom&amp;#x7B80;&amp;#x4ECB;&lt;/h2&gt;&lt;
+    
+    </summary>
+    
+      <category term="Atom" scheme="http://www.byalice.club/categories/Atom/"/>
+    
+    
+      <category term="Atom" scheme="http://www.byalice.club/tags/Atom/"/>
+    
+      <category term="package" scheme="http://www.byalice.club/tags/package/"/>
+    
+      <category term="git plus" scheme="http://www.byalice.club/tags/git-plus/"/>
+    
+  </entry>
   
   <entry>
     <title>使用Github Page和Hexo快速构建个人博客，以及插件安装及主题优化总结</title>
