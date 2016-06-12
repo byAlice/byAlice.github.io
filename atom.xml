@@ -4,9 +4,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://www.byalice.club/"/>
+  <link href="http://byalice.github.io/"/>
   <updated>2016-06-11T12:54:00.078Z</updated>
-  <id>http://www.byalice.club/</id>
+  <id>http://byalice.github.io/</id>
   
   <author>
     <name>byAlice</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Atom 插件git plus如何配置</title>
-    <link href="http://www.byalice.club/2016/06/11/git-plus/"/>
-    <id>http://www.byalice.club/2016/06/11/git-plus/</id>
+    <link href="http://byalice.github.io/2016/06/11/git-plus/"/>
+    <id>http://byalice.github.io/2016/06/11/git-plus/</id>
     <published>2016-06-11T08:11:43.000Z</published>
     <updated>2016-06-11T12:54:00.078Z</updated>
     
@@ -66,23 +66,23 @@
     
     </summary>
     
-      <category term="Atom" scheme="http://www.byalice.club/categories/Atom/"/>
+      <category term="Atom" scheme="http://byalice.github.io/categories/Atom/"/>
     
     
-      <category term="Atom" scheme="http://www.byalice.club/tags/Atom/"/>
+      <category term="Atom" scheme="http://byalice.github.io/tags/Atom/"/>
     
-      <category term="package" scheme="http://www.byalice.club/tags/package/"/>
+      <category term="package" scheme="http://byalice.github.io/tags/package/"/>
     
-      <category term="git plus" scheme="http://www.byalice.club/tags/git-plus/"/>
+      <category term="git plus" scheme="http://byalice.github.io/tags/git-plus/"/>
     
   </entry>
   
   <entry>
     <title>使用Github Page和Hexo快速构建个人博客，以及插件安装及主题优化总结</title>
-    <link href="http://www.byalice.club/2016/06/04/Build-Blog/"/>
-    <id>http://www.byalice.club/2016/06/04/Build-Blog/</id>
+    <link href="http://byalice.github.io/2016/06/04/Build-Blog/"/>
+    <id>http://byalice.github.io/2016/06/04/Build-Blog/</id>
     <published>2016-06-04T05:15:00.000Z</published>
-    <updated>2016-06-08T06:52:29.347Z</updated>
+    <updated>2016-06-12T11:49:50.736Z</updated>
     
     <content type="html">&lt;blockquote&gt;
 &lt;p&gt;&amp;#x5DE5;&amp;#x6B32;&amp;#x5584;&amp;#x5176;&amp;#x4E8B;&amp;#xFF0C;&amp;#x5FC5;&amp;#x5148;&amp;#x5229;&amp;#x5176;&amp;#x5668;&amp;#xFF01;&lt;/p&gt;
@@ -241,7 +241,7 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&quot;&amp;#x7ED1;&amp;#x5B9A;&amp;#x57DF;&amp;#x540D;&quot;&gt;&lt;a href=&quot;#&amp;#x7ED1;&amp;#x5B9A;&amp;#x57DF;&amp;#x540D;&quot; class=&quot;headerlink&quot; title=&quot;&amp;#x7ED1;&amp;#x5B9A;&amp;#x57DF;&amp;#x540D;&quot;&gt;&lt;/a&gt;&amp;#x7ED1;&amp;#x5B9A;&amp;#x57DF;&amp;#x540D;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&amp;#x8D2D;&amp;#x4E70;&amp;#x57DF;&amp;#x540D;&amp;#xFF0C;&amp;#x6211;&amp;#x662F;&amp;#x5728;&lt;a href=&quot;https://account.aliyun.com/login/login.htm?oauth_callback=http%3A%2F%2Fnetcn.console.aliyun.com%2Fcore%2Fdomain%2Ftclist&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&amp;#x4E07;&amp;#x7F51;&lt;/a&gt;&amp;#x8D2D;&amp;#x4E70;&amp;#x7684;&amp;#xFF0C;&amp;#x53EF;&amp;#x4EE5;&amp;#x7533;&amp;#x8BF7;&amp;#x5230;&amp;#x56FD;&amp;#x9645;&amp;#x57DF;&amp;#x540D;&amp;#xFF0C;&amp;#x514D;&amp;#x53BB;&amp;#x4E86;&amp;#x5907;&amp;#x6848;&amp;#x7684;&amp;#x7E41;&amp;#x6742;&amp;#x8FC7;&amp;#x7A0B;&amp;#xFF0C;&amp;#x6211;&amp;#x5C45;&amp;#x7136;&amp;#x7533;&amp;#x8BF7;&amp;#x4E86;&amp;#x4E24;&amp;#x4E2A;&amp;#xFF0C;&amp;#x7531;&amp;#x4E8E;&amp;#x81EA;&amp;#x5B66;&amp;#x524D;&amp;#x7AEF;&amp;#xFF0C;&amp;#x6240;&amp;#x4EE5;&amp;#x5C31;&amp;#x6784;&amp;#x5EFA;&amp;#x4E86;&amp;#x4E00;&amp;#x4E2A;&amp;#x7F51;&amp;#x7AD9;&amp;#x6765;&amp;#x5C55;&amp;#x793A;&amp;#x81EA;&amp;#x5DF1;&amp;#x5199;&amp;#x7684;&amp;#x4E00;&amp;#x4E9B;&lt;a href=&quot;http://www.senyu.website/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;demo&lt;/a&gt;&amp;#xFF0C;&amp;#x3010;&amp;#x81F3;&amp;#x4E8E;&amp;#x5982;&amp;#x4F55;&amp;#x5FEB;&amp;#x901F;&amp;#x7684;&amp;#x6784;&amp;#x5EFA;&amp;#x4E00;&amp;#x4E2A;&amp;#x7F51;&amp;#x7AD9;&amp;#xFF0C;&amp;#x4ECE;&amp;#x8D2D;&amp;#x4E70;&amp;#x57DF;&amp;#x540D;&amp;#xFF0C;&amp;#x4E91;&amp;#x7A7A;&amp;#x95F4;&amp;#x5230;&amp;#x4E0A;&amp;#x4F20;&amp;#x6587;&amp;#x4EF6;&amp;#xFF0C;&amp;#x4F60;&amp;#x53EF;&amp;#x4EE5;&amp;#x8BD5;&amp;#x4E00;&amp;#x4E0B;&amp;#x8FD9;&amp;#x4E2A;&lt;a href=&quot;http://www.xiaoerguo.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&amp;#x7F51;&amp;#x7AD9;&lt;/a&gt;,&amp;#x4F46;&amp;#x662F;&amp;#x73B0;&amp;#x5728;&amp;#x53EF;&amp;#x4EE5;&amp;#x7528;github page&amp;#x505A;&amp;#x670D;&amp;#x52A1;&amp;#x5668;&amp;#xFF0C;&amp;#x4E5F;&amp;#x53EF;&amp;#x4EE5;&amp;#x6784;&amp;#x5EFA;&amp;#x591A;&amp;#x4E2A;&amp;#x9879;&amp;#x76EE;&amp;#x4E3B;&amp;#x9875;&amp;#x6765;&amp;#x5C55;&amp;#x73B0;demo&amp;#xFF0C;&amp;#x662F;&amp;#x6211;&amp;#x9A6C;&amp;#x4E0A;&amp;#x8981;&amp;#x7814;&amp;#x7A76;&amp;#x7684;&amp;#x65B9;&amp;#x5411;&amp;#xFF0C;&amp;#x81EA;&amp;#x5DF1;&amp;#x4E0A;&amp;#x4F20;&amp;#x4E91;&amp;#x670D;&amp;#x52A1;&amp;#x5668;&amp;#x611F;&amp;#x89C9;&amp;#x6B65;&amp;#x9AA4;&amp;#x597D;&amp;#x7E41;&amp;#x7410;&amp;#xFF0C;&amp;#x770B;&amp;#x4E00;&amp;#x4E0B;&amp;#x5728;github&amp;#x5EFA;&amp;#x7ACB;&amp;#x9879;&amp;#x76EE;&amp;#x4E3B;&amp;#x9875;&amp;#x80FD;&amp;#x5426;&amp;#x5F97;&amp;#x5230;&amp;#x6539;&amp;#x5584;&amp;#xFF01;&amp;#x3011;&amp;#x8FD8;&amp;#x4E00;&amp;#x4E2A;&amp;#x6B63;&amp;#x597D;&amp;#x95F2;&amp;#x7F6E;&amp;#x7740;&amp;#xFF0C;&amp;#x6240;&amp;#x4EE5;&amp;#x5C31;&amp;#x62FF;&amp;#x6765;&amp;#x89E3;&amp;#x6790;&amp;#x5230;github page&amp;#x4E0A;&amp;#xFF0C;&amp;#x4EE5;&amp;#x540E;&amp;#x5C31;&amp;#x53EF;&amp;#x4EE5;&amp;#x901A;&amp;#x8FC7;&amp;#x81EA;&amp;#x5DF1;&amp;#x7684;&amp;#x57DF;&amp;#x540D;&amp;#x8BBF;&amp;#x95EE;&amp;#x81EA;&amp;#x5DF1;&amp;#x7684;&amp;#x535A;&amp;#x5BA2;&amp;#x4E86;&amp;#xFF01;&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;&amp;#x8D2D;&amp;#x4E70;&amp;#x57DF;&amp;#x540D;&amp;#xFF0C;&amp;#x6211;&amp;#x662F;&amp;#x5728;&lt;a href=&quot;https://account.aliyun.com/login/login.htm?oauth_callback=http%3A%2F%2Fnetcn.console.aliyun.com%2Fcore%2Fdomain%2Ftclist&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&amp;#x4E07;&amp;#x7F51;&lt;/a&gt;&amp;#x8D2D;&amp;#x4E70;&amp;#x7684;&amp;#xFF0C;&amp;#x53EF;&amp;#x4EE5;&amp;#x7533;&amp;#x8BF7;&amp;#x5230;&amp;#x56FD;&amp;#x9645;&amp;#x57DF;&amp;#x540D;&amp;#xFF0C;&amp;#x514D;&amp;#x53BB;&amp;#x4E86;&amp;#x5907;&amp;#x6848;&amp;#x7684;&amp;#x7E41;&amp;#x6742;&amp;#x8FC7;&amp;#x7A0B;&amp;#xFF0C;&amp;#x6211;&amp;#x5C45;&amp;#x7136;&amp;#x7533;&amp;#x8BF7;&amp;#x4E86;&amp;#x4E24;&amp;#x4E2A;&amp;#xFF0C;&amp;#x7531;&amp;#x4E8E;&amp;#x81EA;&amp;#x5B66;&amp;#x524D;&amp;#x7AEF;&amp;#xFF0C;&amp;#x6240;&amp;#x4EE5;&amp;#x5C31;&amp;#x6784;&amp;#x5EFA;&amp;#x4E86;&amp;#x4E00;&amp;#x4E2A;&amp;#x7F51;&amp;#x7AD9;&amp;#x6765;&amp;#x5C55;&amp;#x793A;&amp;#x81EA;&amp;#x5DF1;&amp;#x5199;&amp;#x7684;&amp;#x4E00;&amp;#x4E9B;&lt;a href=&quot;http://www.byalice.club/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;demo&lt;/a&gt;&amp;#xFF0C;&amp;#x3010;&amp;#x81F3;&amp;#x4E8E;&amp;#x5982;&amp;#x4F55;&amp;#x5FEB;&amp;#x901F;&amp;#x7684;&amp;#x6784;&amp;#x5EFA;&amp;#x4E00;&amp;#x4E2A;&amp;#x7F51;&amp;#x7AD9;&amp;#xFF0C;&amp;#x4ECE;&amp;#x8D2D;&amp;#x4E70;&amp;#x57DF;&amp;#x540D;&amp;#xFF0C;&amp;#x4E91;&amp;#x7A7A;&amp;#x95F4;&amp;#x5230;&amp;#x4E0A;&amp;#x4F20;&amp;#x6587;&amp;#x4EF6;&amp;#xFF0C;&amp;#x4F60;&amp;#x53EF;&amp;#x4EE5;&amp;#x8BD5;&amp;#x4E00;&amp;#x4E0B;&amp;#x8FD9;&amp;#x4E2A;&lt;a href=&quot;http://www.xiaoerguo.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&amp;#x7F51;&amp;#x7AD9;&lt;/a&gt;,&amp;#x4F46;&amp;#x662F;&amp;#x73B0;&amp;#x5728;&amp;#x53EF;&amp;#x4EE5;&amp;#x7528;github page&amp;#x505A;&amp;#x670D;&amp;#x52A1;&amp;#x5668;&amp;#xFF0C;&amp;#x4E5F;&amp;#x53EF;&amp;#x4EE5;&amp;#x6784;&amp;#x5EFA;&amp;#x591A;&amp;#x4E2A;&amp;#x9879;&amp;#x76EE;&amp;#x4E3B;&amp;#x9875;&amp;#x6765;&amp;#x5C55;&amp;#x73B0;demo&amp;#xFF0C;&amp;#x662F;&amp;#x6211;&amp;#x9A6C;&amp;#x4E0A;&amp;#x8981;&amp;#x7814;&amp;#x7A76;&amp;#x7684;&amp;#x65B9;&amp;#x5411;&amp;#xFF0C;&amp;#x81EA;&amp;#x5DF1;&amp;#x4E0A;&amp;#x4F20;&amp;#x4E91;&amp;#x670D;&amp;#x52A1;&amp;#x5668;&amp;#x611F;&amp;#x89C9;&amp;#x6B65;&amp;#x9AA4;&amp;#x597D;&amp;#x7E41;&amp;#x7410;&amp;#xFF0C;&amp;#x770B;&amp;#x4E00;&amp;#x4E0B;&amp;#x5728;github&amp;#x5EFA;&amp;#x7ACB;&amp;#x9879;&amp;#x76EE;&amp;#x4E3B;&amp;#x9875;&amp;#x80FD;&amp;#x5426;&amp;#x5F97;&amp;#x5230;&amp;#x6539;&amp;#x5584;&amp;#xFF01;&amp;#x3011;&amp;#x8FD8;&amp;#x4E00;&amp;#x4E2A;&amp;#x6B63;&amp;#x597D;&amp;#x95F2;&amp;#x7F6E;&amp;#x7740;&amp;#xFF0C;&amp;#x6240;&amp;#x4EE5;&amp;#x5C31;&amp;#x62FF;&amp;#x6765;&amp;#x89E3;&amp;#x6790;&amp;#x5230;github page&amp;#x4E0A;&amp;#xFF0C;&amp;#x4EE5;&amp;#x540E;&amp;#x5C31;&amp;#x53EF;&amp;#x4EE5;&amp;#x901A;&amp;#x8FC7;&amp;#x81EA;&amp;#x5DF1;&amp;#x7684;&amp;#x57DF;&amp;#x540D;&amp;#x8BBF;&amp;#x95EE;&amp;#x81EA;&amp;#x5DF1;&amp;#x7684;&amp;#x535A;&amp;#x5BA2;&amp;#x4E86;&amp;#xFF01;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;p&gt;&amp;#x5982;&amp;#x4F55;&amp;#x64CD;&amp;#x4F5C;&amp;#xFF1A;&amp;#x5728; Hexo\source &amp;#x6587;&amp;#x4EF6;&amp;#x5939;&amp;#x91CC;&amp;#x65B0;&amp;#x5EFA;&amp;#x4E00;&amp;#x4E2A;&amp;#x540D;&amp;#x4E3A; CNAME &amp;#x7684;&amp;#x6587;&amp;#x4EF6;&amp;#xFF0C;&amp;#x7528;&amp;#x6587;&amp;#x672C;&amp;#x7F16;&amp;#x8F91;&amp;#x5668;&amp;#x6253;&amp;#x5F00;&amp;#xFF0C;&amp;#x6DFB;&amp;#x52A0;&amp;#x5185;&amp;#x5BB9; yourwebsite.com &amp;#xFF08;&amp;#x4F60;&amp;#x7684;&amp;#x4E2A;&amp;#x4EBA;&amp;#x57DF;&amp;#x540D; &amp;#xFF09;&amp;#x3002;&amp;#x4FDD;&amp;#x5B58;&amp;#x540E;&amp;#xFF0C;&amp;#x90E8;&amp;#x7F72;&amp;#x4F60;&amp;#x7684;&amp;#x535A;&amp;#x5BA2;&amp;#x5373;&amp;#x53EF;&amp;#x3002;&amp;#x5982;&amp;#x679C;&amp;#x8FD9;&amp;#x6B65;&amp;#x9047;&amp;#x5230;&amp;#x95EE;&amp;#x9898;&amp;#xFF0C;&amp;#x4E5F;&amp;#x53EF;&amp;#x624B;&amp;#x52A8;&amp;#x5728;&amp;#x4E07;&amp;#x7F51;&amp;#x4E0A;&amp;#x89E3;&amp;#x6790;&amp;#xFF0C;github page&amp;#x63D0;&amp;#x4F9B;&amp;#x7684;IP&amp;#xFF1A;&lt;/p&gt;
 &lt;ul&gt;
@@ -257,6 +257,7 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
+&lt;h3 id=&quot;&amp;#x5173;&amp;#x4E8E;&amp;#x662F;&amp;#x5426;&amp;#x7ED1;&amp;#x5B9A;&amp;#x57DF;&amp;#x540D;&quot;&gt;&lt;a href=&quot;#&amp;#x5173;&amp;#x4E8E;&amp;#x662F;&amp;#x5426;&amp;#x7ED1;&amp;#x5B9A;&amp;#x57DF;&amp;#x540D;&quot; class=&quot;headerlink&quot; title=&quot;&amp;#x5173;&amp;#x4E8E;&amp;#x662F;&amp;#x5426;&amp;#x7ED1;&amp;#x5B9A;&amp;#x57DF;&amp;#x540D;&quot;&gt;&lt;/a&gt;&amp;#x5173;&amp;#x4E8E;&amp;#x662F;&amp;#x5426;&amp;#x7ED1;&amp;#x5B9A;&amp;#x57DF;&amp;#x540D;&lt;/h3&gt;&lt;p&gt;&amp;#x7ECF;&amp;#x8FC7;&amp;#x8FD9;&amp;#x51E0;&amp;#x5929;&amp;#x7684;&amp;#x8BD5;&amp;#x7528;&amp;#xFF0C;&amp;#x5173;&amp;#x4E8E;&amp;#x662F;&amp;#x5426;&amp;#x7ED1;&amp;#x5B9A;&amp;#x57DF;&amp;#x540D;&amp;#xFF0C;&amp;#x53D1;&amp;#x8868;&amp;#x4E00;&amp;#x4E0B;&amp;#x81EA;&amp;#x5DF1;&amp;#x7684;&amp;#x770B;&amp;#x6CD5;&amp;#xFF0C;&amp;#x5982;&amp;#x679C;&amp;#x4F60;&amp;#x4EC5;&amp;#x4EC5;&amp;#x662F;&amp;#x4F7F;&amp;#x7528;&amp;#x4E2A;&amp;#x4EBA;&amp;#x4E3B;&amp;#x9875;&amp;#x6765;&amp;#x6258;&amp;#x7BA1;&amp;#x4E2A;&amp;#x4EBA;&amp;#x535A;&amp;#x5BA2;&amp;#x3002;&amp;#x7ED1;&amp;#x5B9A;&amp;#x4E0E;&amp;#x5426;&amp;#x770B;&amp;#x4F60;&amp;#x81EA;&amp;#x5DF1;&amp;#x7684;&amp;#x60F3;&amp;#x6CD5;&amp;#xFF0C;&amp;#x5982;&amp;#x679C;&amp;#x4F60;&amp;#x8FD8;&amp;#x60F3;&amp;#x4F7F;&amp;#x7528;github&amp;#x7684;&amp;#x9879;&amp;#x76EE;&amp;#x4E3B;&amp;#x9875;&amp;#x6765;&amp;#x5C55;&amp;#x793A;&amp;#x5E73;&amp;#x65F6;&amp;#x5199;&amp;#x7684;&amp;#x4E00;&amp;#x4E9B;&amp;#x5C0F;&amp;#x7EC3;&amp;#x4E60;demo&amp;#xFF0C;&amp;#x90A3;&amp;#x6211;&amp;#x529D;&amp;#x4F60;&amp;#x4E0D;&amp;#x8981;&amp;#x7ED1;&amp;#x5B9A;&amp;#x4E2A;&amp;#x4EBA;&amp;#x57DF;&amp;#x540D;&amp;#x4E86;&amp;#xFF0C;&amp;#x5173;&amp;#x4E8E;&amp;#x5982;&amp;#x4F55;&amp;#x4F7F;&amp;#x7528;github&amp;#x7684;&amp;#x9879;&amp;#x76EE;&amp;#x4E3B;&amp;#x9875;&amp;#xFF0C;&amp;#x8BF7;&amp;#x53C2;&amp;#x8003;&lt;a href=&quot;http://chitanda.me/2015/11/03/multiple-git-pages-in-one-github-account/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&amp;#x5355;&amp;#x4E2A;GitHub&amp;#x5E10;&amp;#x53F7;&amp;#x4E0B;&amp;#x6DFB;&amp;#x52A0;&amp;#x591A;&amp;#x4E2A;GitHub Pages&amp;#x7684;&amp;#x76F8;&amp;#x5173;&amp;#x95EE;&amp;#x9898;&lt;/a&gt;,&amp;#x8FD9;&amp;#x6837;&amp;#x4F60;&amp;#x5C31;&amp;#x53EF;&amp;#x4EE5;&amp;#x76F4;&amp;#x63A5;&amp;#x5728;&amp;#x9700;&amp;#x8981;&amp;#x5C55;&amp;#x793A;&amp;#x7684;&amp;#x9879;&amp;#x76EE;&amp;#x4E0B;&amp;#x6DFB;&amp;#x52A0;gh-pages&amp;#x5206;&amp;#x652F;&amp;#xFF0C;&amp;#x7136;&amp;#x540E;&amp;#x901A;&amp;#x8FC7;&amp;#x8BBF;&amp;#x95EE;&amp;#x201C;&amp;#x7528;&amp;#x6237;&amp;#x540D;&amp;#x3002;github.io/&amp;#x9879;&amp;#x76EE;&amp;#x540D;/&lt;em&gt;*&lt;/em&gt;.html&amp;#x201D;&amp;#x6765;&amp;#x67E5;&amp;#x770B;&amp;#x9875;&amp;#x9762;&amp;#x5C55;&amp;#x793A;&amp;#x6548;&amp;#x679C;&amp;#x4E86;&amp;#x3002;&amp;#x8FD9;&amp;#x591A;&amp;#x65B9;&amp;#x4FBF;&amp;#xFF0C;&amp;#x4E0D;&amp;#x7528;&amp;#x81EA;&amp;#x5DF1;&amp;#x5728;&amp;#x4E0A;&amp;#x4F20;&amp;#x4E91;&amp;#x7A7A;&amp;#x95F4;&amp;#x4E86;&amp;#xFF0C;&amp;#x7701;&amp;#x53BB;&amp;#x4E86;&amp;#x4E00;&amp;#x5806;&amp;#x9EBB;&amp;#x70E6;&amp;#x4E8B;&amp;#xFF01;&lt;/p&gt;
 &lt;h2 id=&quot;&amp;#x53C2;&amp;#x8003;&amp;#x6587;&amp;#x732E;&quot;&gt;&lt;a href=&quot;#&amp;#x53C2;&amp;#x8003;&amp;#x6587;&amp;#x732E;&quot; class=&quot;headerlink&quot; title=&quot;&amp;#x53C2;&amp;#x8003;&amp;#x6587;&amp;#x732E;&quot;&gt;&lt;/a&gt;&amp;#x53C2;&amp;#x8003;&amp;#x6587;&amp;#x732E;&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://sunwhut.com/2015/10/30/buildBlog/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&amp;#x5982;&amp;#x4F55;&amp;#x5229;&amp;#x7528;GitHub Pages&amp;#x548C;Hexo&amp;#x5FEB;&amp;#x901F;&amp;#x642D;&amp;#x5EFA;&amp;#x4E2A;&amp;#x4EBA;&amp;#x535A;&amp;#x5BA2;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
@@ -278,6 +279,8 @@
 &lt;/li&gt;
 &lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://www.5941740.cn/2016/02/19/%E4%BD%BF%E7%94%A8gulp%E7%B2%BE%E7%AE%80hexo%E5%8D%9A%E5%AE%A2%E4%BB%A3%E7%A0%81/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&amp;#x4F7F;&amp;#x7528;gulp&amp;#x7CBE;&amp;#x7B80;hexo&amp;#x535A;&amp;#x5BA2;&amp;#x4EE3;&amp;#x7801;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://chitanda.me/2015/11/03/multiple-git-pages-in-one-github-account/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&amp;#x5355;&amp;#x4E2A;GitHub&amp;#x5E10;&amp;#x53F7;&amp;#x4E0B;&amp;#x6DFB;&amp;#x52A0;&amp;#x591A;&amp;#x4E2A;GitHub Pages&amp;#x7684;&amp;#x76F8;&amp;#x5173;&amp;#x95EE;&amp;#x9898;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&amp;#x7B2C;&amp;#x4E00;&amp;#x6B21;&amp;#x53D1;&amp;#x6587;&amp;#xFF0C;&amp;#x535A;&amp;#x5BA2;&amp;#x4E2D;&amp;#x501F;&amp;#x9274;&amp;#x548C;&amp;#x6574;&amp;#x7406;&amp;#x4E86;&amp;#x4E00;&amp;#x4E9B;&amp;#x5927;&amp;#x795E;&amp;#x4EEC;&amp;#x7684;&amp;#x6587;&amp;#x7AE0;&amp;#xFF0C;&amp;#x53D7;&amp;#x76CA;&amp;#x532A;&amp;#x6D45;&amp;#xFF0C;&amp;#x5BF9;&amp;#x4F60;&amp;#x4EEC;&amp;#x8868;&amp;#x793A;&amp;#x8BDA;&amp;#x631A;&amp;#x7684;&amp;#x611F;&amp;#x8C22;&amp;#xFF01;&lt;/p&gt;
 &lt;h2 id=&quot;&amp;#x540E;&amp;#x8BB0;&quot;&gt;&lt;a href=&quot;#&amp;#x540E;&amp;#x8BB0;&quot; class=&quot;headerlink&quot; title=&quot;&amp;#x540E;&amp;#x8BB0;&quot;&gt;&lt;/a&gt;&amp;#x540E;&amp;#x8BB0;&lt;/h2&gt;&lt;p&gt;&amp;#x51C6;&amp;#x786E;&amp;#x8BF4;&amp;#x5E94;&amp;#x8BE5;&amp;#x662F;&amp;#x8FD9;&amp;#x4E09;&amp;#x5929;&amp;#x4EE5;&amp;#x6765;&amp;#x4E00;&amp;#x76F4;&amp;#x5728;&amp;#x5FD9;&amp;#x7740;&amp;#x641E;&amp;#x8FD9;&amp;#x4E2A;&amp;#x535A;&amp;#x5BA2;&amp;#xFF0C;&amp;#x6628;&amp;#x5929;&amp;#x591C;&amp;#x91CC;&amp;#x751A;&amp;#x81F3;&amp;#x641E;&amp;#x5230;&amp;#x4E09;&amp;#x70B9;&amp;#xFF0C;&amp;#x4F5C;&amp;#x4E3A;&amp;#x4E00;&amp;#x4E2A;&amp;#x5C0F;&amp;#x767D;&amp;#x4E00;&amp;#x6B65;&amp;#x6B65;&amp;#x5EFA;&amp;#x7ACB;&amp;#x535A;&amp;#x5BA2;&amp;#xFF0C;&amp;#x65F6;&amp;#x4E0D;&amp;#x65F6;&amp;#x9047;&amp;#x5230;&amp;#x65B0;&amp;#x95EE;&amp;#x9898;&amp;#xFF0C;&amp;#x901A;&amp;#x8FC7;&amp;#x641C;&amp;#x7D22;&amp;#xFF0C;&amp;#x4EE5;&amp;#x53CA;&amp;#x524D;&amp;#x8F88;&amp;#x4EEC;&amp;#x5EFA;&amp;#x7ACB;&amp;#x535A;&amp;#x5BA2;&amp;#x7684;&amp;#x7ECF;&amp;#x9A8C;&amp;#x4E00;&amp;#x6B65;&amp;#x6B65;&amp;#x89E3;&amp;#x51B3;&amp;#x95EE;&amp;#x9898;&amp;#xFF0C;&amp;#x6BCF;&amp;#x5F53;&amp;#x89E3;&amp;#x51B3;&amp;#x4E00;&amp;#x4E2A;&amp;#x95EE;&amp;#x9898;&amp;#xFF0C;&amp;#x90FD;&amp;#x4F1A;&amp;#x6709;&amp;#x5DE8;&amp;#x5927;&amp;#x7684;&amp;#x6210;&amp;#x5C31;&amp;#x611F;&amp;#x548C;&amp;#x6EE1;&amp;#x8DB3;&amp;#x611F;&amp;#xFF0C;&amp;#x5199;&amp;#x8FD9;&amp;#x7BC7;&amp;#x6587;&amp;#x7AE0;&amp;#x4E5F;&amp;#x7B97;&amp;#x662F;&amp;#x5BF9;&amp;#x81EA;&amp;#x5DF1;&amp;#x7684;&amp;#x4E00;&amp;#x4E2A;&amp;#x4EA4;&amp;#x4EE3;&amp;#xFF0C;&amp;#x6211;&amp;#x4ECE;&amp;#x522B;&amp;#x4EBA;&amp;#x7684;&amp;#x535A;&amp;#x5BA2;&amp;#x4E2D;&amp;#x5B66;&amp;#x5230;&amp;#x4E86;&amp;#x5F88;&amp;#x591A;&amp;#xFF0C;&amp;#x5E0C;&amp;#x671B;&amp;#x8FD9;&amp;#x7BC7;&amp;#x535A;&amp;#x6587;&amp;#x4E5F;&amp;#x53EF;&amp;#x4EE5;&amp;#x5E2E;&amp;#x52A9;&amp;#x5230;&amp;#x4F60;&amp;#xFF01;&lt;/p&gt;
@@ -292,25 +295,25 @@
     
     </summary>
     
-      <category term="Hexo" scheme="http://www.byalice.club/categories/Hexo/"/>
+      <category term="Hexo" scheme="http://byalice.github.io/categories/Hexo/"/>
     
     
-      <category term="Github page" scheme="http://www.byalice.club/tags/Github-page/"/>
+      <category term="Github page" scheme="http://byalice.github.io/tags/Github-page/"/>
     
-      <category term="Hexo" scheme="http://www.byalice.club/tags/Hexo/"/>
+      <category term="Hexo" scheme="http://byalice.github.io/tags/Hexo/"/>
     
-      <category term="Next主题" scheme="http://www.byalice.club/tags/Next%E4%B8%BB%E9%A2%98/"/>
+      <category term="Next主题" scheme="http://byalice.github.io/tags/Next%E4%B8%BB%E9%A2%98/"/>
     
-      <category term="插件安装" scheme="http://www.byalice.club/tags/%E6%8F%92%E4%BB%B6%E5%AE%89%E8%A3%85/"/>
+      <category term="插件安装" scheme="http://byalice.github.io/tags/%E6%8F%92%E4%BB%B6%E5%AE%89%E8%A3%85/"/>
     
-      <category term="性能优化" scheme="http://www.byalice.club/tags/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/"/>
+      <category term="性能优化" scheme="http://byalice.github.io/tags/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://www.byalice.club/2016/06/02/hello-world/"/>
-    <id>http://www.byalice.club/2016/06/02/hello-world/</id>
+    <link href="http://byalice.github.io/2016/06/02/hello-world/"/>
+    <id>http://byalice.github.io/2016/06/02/hello-world/</id>
     <published>2016-06-02T12:48:20.874Z</published>
     <updated>2016-06-02T12:48:20.875Z</updated>
     
