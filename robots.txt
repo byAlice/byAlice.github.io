@@ -10,5 +10,5 @@ Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
 
-Sitemap: http://www.byalice.club/sitemap.xml
-Sitemap: http://www.byalice.club/baidusitemap.xml
+Sitemap: http://byalice.github.io/sitemap.xml
+Sitemap: http://byalice.github.io/baidusitemap.xml
