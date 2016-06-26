@@ -12,3 +12,4 @@ Disallow: /fancybox/
 
 Sitemap: http://byalice.github.io/sitemap.xml
 Sitemap: http://byalice.github.io/baidusitemap.xml
+
